@@ -1,0 +1,14 @@
+{
+  "name": "unit-test-jest-ex",
+  "version": "1.0.0",
+  "description": "Unit test excercise using Jest",
+  "main": "lib.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Jerry Barman",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  }
+}
